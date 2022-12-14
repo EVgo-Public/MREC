@@ -1,0 +1,6 @@
+[book]
+authors = ["Anthony J. Martinez"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Minimum Required Error Codes"
